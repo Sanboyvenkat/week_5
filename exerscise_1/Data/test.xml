@@ -1,6 +1,7 @@
-<person gender="male">
-  <name>John Doe</name>
-</person>
+<customer>
+	<company>Northeast Invention Inc.</company>
+  </customer>
+
 
 
 
