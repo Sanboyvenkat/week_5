@@ -2,4 +2,6 @@
 	<name>John Doe</name>
 	<age>30</age>
 	<email>johndoe@example.com</email>
+	<phone>1234</phone>
 </person>
+
