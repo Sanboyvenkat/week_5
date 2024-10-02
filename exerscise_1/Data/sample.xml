@@ -27,7 +27,7 @@
         </order>
       </orders>
     </customer>
-    <customer id ='3'></customer>
+    <customer id ='3'>
     <name> Dave george</name>
     <email>dave@example.com</email>
     <orders>
@@ -38,5 +38,6 @@
     </order></orders>
   </customers>
 </database>
+
 
 
