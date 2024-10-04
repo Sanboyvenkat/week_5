@@ -19,3 +19,4 @@ print(f"Root Element: {root.tag}")
 # Loop over the child elements of the root and print their tags and text content.
 for element in root:
     print(f"{element.tag}: {element.text}")
+
