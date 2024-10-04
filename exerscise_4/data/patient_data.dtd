@@ -1,0 +1,9 @@
+<!ELEMENT hospital (patient+)>
+<!ELEMENT patient (firstName, lastName, gender, diagnosis, medications)>
+<!ATTLIST patient id ID #REQUIRED>
+<!ELEMENT firstName (#PCDATA)>
+<!ELEMENT lastName (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT diagnosis (#PCDATA)>
+<!ELEMENT medications (medication+)>
+<!ELEMENT medication (#PCDATA)>

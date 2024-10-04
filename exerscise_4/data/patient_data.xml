@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hospital SYSTEM "patient_data.dtd">
+<hospital>
+  <patient id="p001">
+    <firstName>John</firstName>
+    <lastName>Doe</lastName>
+    <gender>Male</gender>
+    <diagnosis>Hypertension</diagnosis>
+    <medications>
+      <medication>Lisinopril</medication>
+      <medication>Amlodipine</medication>
+    </medications>
+  </patient>
+  <patient id="p002">
+    <firstName>Jane</firstName>
+    <lastName>Smith</lastName>
+    <gender>Female</gender>
+    <diagnosis>Type 2 Diabetes</diagnosis>
+    <medications>
+      <medication>Metformin</medication>
+    </medications>
+  </patient>
+</hospital>
